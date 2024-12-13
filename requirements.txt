@@ -1,3 +1,5 @@
 numpy
 conllu
 pandas
+scikit-learn
+matplotlib
