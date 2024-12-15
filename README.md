@@ -1,6 +1,6 @@
 # Project Title
 
-HMM_POS_Tagger
+HMM_PoS_Tagger
 
 ## Description
 
@@ -11,3 +11,5 @@ Nagore Bravo
 Maite Muñoz
 Aitor Taboada
 
+## Colab LINK
+https://drive.google.com/file/d/1t7UpCU8DpQFJmmwI7yldaBsJ3857WYlH/view?usp=sharing
