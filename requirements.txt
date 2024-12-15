@@ -3,3 +3,4 @@ conllu
 pandas
 scikit-learn
 matplotlib
+nltk
